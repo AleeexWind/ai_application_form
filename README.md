@@ -11,6 +11,6 @@
 	`..\ai_application_form\.features`
 
 ### Использованные промпты
-> 1. using .continue/rules/ProjectRule.md and .features/GetQuestions.feature create backend and frontend projects
+> 1. using .agents/rules/ProjectRule.md and .features/GetQuestions.feature create backend and frontend projects
 >    
 > 3. using a new feature .features/SubmitResponses.feature make changes
